@@ -1,5 +1,7 @@
 console.log('f_initBranch');
 
-console.log('f2');
+function Feture2 () {
+    console.log('f2');
+}
 
 console.log('done f2');
